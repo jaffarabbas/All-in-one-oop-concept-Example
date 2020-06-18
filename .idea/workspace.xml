@@ -18,7 +18,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Examination-Portal2" />
   </component>
   <component name="RunManager" selected="Application.Assignment_of_All_OOP_Concept">
     <configuration name="Assignment_of_All_OOP_Concept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -69,6 +69,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="445" y="202" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1591359587775" />
+    <state x="466" y="135" width="424" height="484" key="FileChooserDialogImpl" timestamp="1591438004612">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state x="466" y="135" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.702@0.27.1366.702" timestamp="1591438004612" />
     <state width="1320" height="163" key="GridCell.Tab.0.bottom" timestamp="1591428340950">
       <screen x="0" y="27" width="1366" height="702" />
     </state>
